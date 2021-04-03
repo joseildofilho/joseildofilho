@@ -11,4 +11,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseildofilho&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseildofilho)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseildofilho&hide=java)](https://github.com/anuraghazra/github-readme-stats)
